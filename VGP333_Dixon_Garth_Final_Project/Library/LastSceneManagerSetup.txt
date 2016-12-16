@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Dixon_Garth_Unit_001.unity
+  isLoaded: 1
+  isActive: 1
